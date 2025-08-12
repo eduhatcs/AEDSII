@@ -35,11 +35,12 @@ A probabilidade descrita tem base em provas que eu realizei no 1º Semestre de 2
 - [TAD Linear - Fila](https://github.com/eduhatcs/AEDSII/blob/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-02/TAD-Linear-Fila.pdf) <br> 
 <em><small> (Pequena probabilidade): </em></small> <br><br>
 
+Todos os slides são pertencentes ao repositório de [aeds2](https://github.com/icei-pucminas/aeds2) do [icei-pucminas](https://github.com/icei-pucminas). 
+<br><br>
+
 <div align="center">
 
 ### Bons estudos!
-
-<br> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
