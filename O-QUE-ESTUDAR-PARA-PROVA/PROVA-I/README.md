@@ -41,6 +41,13 @@ A probabilidade descrita tem base em provas que eu realizei no 1º Semestre de 2
 
 <br> 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
+         alt="LinkedIn" 
+         width="75">
+  </a>
+</p>
 
 <small><em>
 © 2025 Eduardo Aniceto &emsp; © 2025 PUC Minas
