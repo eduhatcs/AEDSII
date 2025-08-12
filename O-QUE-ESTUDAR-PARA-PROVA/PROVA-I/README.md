@@ -1,18 +1,49 @@
-# Matéria da 1ª Prova são os seguintes tópicos:
-
-## Unidade 1 - Fundamentos de Análise de Algoritmos:
- ### Noções de Complexidade (100% de chance de cair);
- ### Somatórios (Notação, Fórmula Fechada e Manipulação) (100% de chance de cair); 
- ### Algoritmos de Pesquisa (Sequencial e Binária); (90% de chance de cair para implementar ou modificar um código);
- ### Algoritmo de Ordenação (SelectionSort). (60% de chance de cair para implementar ou modificar um código);
- ### Fundamentos de Análise de Complexidade. (100% de chance de cair para fazer notações como: Θ (Teta) e Ω (Ômega));
-
-## Unidade 2 - Estruturas de Dados Básicas Lineares:
- ### TAD Linear - Lista (20% de chance de cair);
- ### TAD Linear - Pilha (20% de chance de cair);
- ### TAD Linear - Fila (20% de chance de cair):
+<div align="center">
  
-Bons estudos!
+### <em> IMPORTANTE! <br> 
 
-© 2025 Eduardo Aniceto
-© 2025 PUC Minas
+A probabilidade descrita tem base em provas que eu realizei no 1º Semestre de 2025 e em provas de semestres anteriores. </em>
+
+</div>
+
+##
+
+# Tópicos Matéria da 1ª Prova:
+
+### Unidade 1 - Fundamentos de Análise de Algoritmos: 
+-  [Noções de Complexidade](https://github.com/eduhatcs/AEDSII/tree/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-01/1A-Nocoes-de-Complexidade) <br> 
+<small><em> (Sempre há questões) </em></small> <br><br>
+
+-  [Algoritmos de Pesquisa](https://github.com/eduhatcs/AEDSII/blob/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-01/1B-AlgoritmosPesquisa/b-AlgoritmosPesquisa.pdf) (Sequencial e Binária); <br>
+<em><small> (Grande probabilidade de pedir para implementar ou modificar um código) </em></small> <br><br>
+
+-  [Algoritmo de Ordenação](https://github.com/eduhatcs/AEDSII/tree/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-01/1C-OrdenacaoInterna-SelectionSort)  (SelectionSort)<br> 
+<em></small> (Média probabilidade para implementar ou modificar um código) </em></small> <br><br>
+
+-  [Somatórios](https://github.com/eduhatcs/AEDSII/tree/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-01/1D-Somatorios) (Notação, Fórmula Fechada e Manipulação) <br> 
+<em><small> (Grande probabilidade) </em></small> <br><br>
+
+- [Fundamentos de Análise de Complexidade](https://github.com/eduhatcs/AEDSII/tree/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-01/1E-Fundamentos-Analise-de-Complexidade) <br> 
+ <em></small> (Sempre há questões que poedem para fazer notações como: Θ (Teta) e Ω (Ômega) em função do código apresentado) </em></small> <br>
+ ##
+
+### Unidade 2 - Estruturas de Dados Básicas Lineares:
+- [TAD Linear - Lista](https://github.com/eduhatcs/AEDSII/blob/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-02/TAD-Linear-Lista.pdf) <br>
+<em><small> (Pequena probabilidade) </em></small> <br><br>
+- [TAD Linear - Pilha](https://github.com/eduhatcs/AEDSII/blob/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-02/TAD-Linear-Pilha.pdf) <br> 
+<em><small> (Pequena probabilidade); </em></small> <br><br>
+- [TAD Linear - Fila](https://github.com/eduhatcs/AEDSII/blob/main/O-QUE-ESTUDAR-PARA-PROVA/PROVA-I/Unidade-02/TAD-Linear-Fila.pdf) <br> 
+<em><small> (Pequena probabilidade): </em></small> <br><br>
+
+<div align="center">
+
+### Bons estudos!
+
+<br> 
+
+
+<small><em>
+© 2025 Eduardo Aniceto &emsp; © 2025 PUC Minas
+</em></small>
+
+</div>
