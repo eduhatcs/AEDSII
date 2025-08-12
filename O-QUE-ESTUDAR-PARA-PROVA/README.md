@@ -2,14 +2,22 @@
 
 ### <em> Repositório dedicado para alunos que estejam cursando a matéria Algoritmos e Estruturas de Dados II na PUC Minas. </em>
 
-  Neste repositório você encontrará slides e códigos que possam te auxiliar na realização de suas provas. Vale ressaltar que não há como dizer com certeza qual parte específica cairá na prova, pois nem todos os semestre as questões são iguais, mas em cada unidade que você encontrar deste repositório eu lhe direi o que é o mais provável para cair em sua prova. 
-  Fique atento aos README.md que irá lhe auxiliar na navegação!
+Neste repositório você encontrará slides e códigos que possam te auxiliar na realização de suas provas. Vale ressaltar que não há como dizer com certeza qual parte específica cairá na prova, pois nem todos os semestre as questões são iguais, mas em cada unidade que você encontrar deste repositório eu lhe direi o que é o mais provável para cair em sua prova. 
+Fique atento aos README.md que irá lhe auxiliar na navegação!
 
-  Para resultados melhores, irei separar as pastas por unidades da matéria para um melhor estudo e melhores resultados!
+Para resultados melhores, irei separar as pastas por unidades da matéria para um melhor estudo e melhores resultados!
 
 ### Bons estudos!
 
 <div align="center">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduhatcs" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
+         alt="LinkedIn" 
+         width="75">
+  </a>
+</p>
   
 <small><em>
 © 2025 Eduardo Aniceto
