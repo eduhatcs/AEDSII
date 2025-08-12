@@ -7,8 +7,4 @@ Repositório dedicado para alunos que estejam cursando a matéria Algoritmos e E
 
   Para resultados melhores, irei separar as pastas por unidades da matéria para um melhor estudo e melhores resultados!
 
-  O índice de porcentagem (0 a 100) foi feito estatísticas de minhas provas e de provas passadas, sendo que muitas seguem o mesmo padrão. 
-
-### IMPORTATE: Não é porquê o índice de porcentagem seja baixo que você não deve estudar o tópico, apenas coloquei para você ter uma orientação de onde colocar mais energia para estudar para obter melhores resultados. Mas veja todos os tópicos para não ser pego de surpresa na hora da prova!!!!
-
 Bons estudos!
