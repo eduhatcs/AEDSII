@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+	// Função para contar as últimas três palavras enviadas no vetor circular
 	public static void countThreeLastMsg(String str[], int pos) {
 		for (int i = 0; i < 3; i++) {
 			System.out.println("Frase '" + str[pos] + "' possui " + qtMaiusculo(str[pos]) + " letras maiúsculas!");
@@ -8,6 +9,7 @@ public class Main {
 		}
 	}
 
+	// Função para exibir as últimas três palavras enviadas no vetor circular
 	public static void showThreeLastMsg(String str[], int pos) {
 		for (int i = 0; i < 3; i++) {
 			System.out.printf("Frase %d - %s%n", i+1, str[pos]);
@@ -15,14 +17,17 @@ public class Main {
 		}
 	}
 
+	// Função para exibir a última mensagem enviada
 	public static void showLastMsg(String str) {
 		System.out.println("A última frase digitada foi: " + str);
 	}
 
+	// Função para printar a quantidade de letras maíusculas presentes na frase
 	public static void showMsg(String str, int qt) {
 		System.out.println("A frase '" + str + "' possui " + qt + " letras maiúsculas!");
 	}
 
+	// Função para contar a quantidade de letras maíusculas presentes na frase
 	public static int qtMaiusculo(String str) {
 		int qt = 0;
 
@@ -35,6 +40,7 @@ public class Main {
 		return qt;
 	}
 
+	// MAIN
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
@@ -56,16 +62,16 @@ public class Main {
 			System.out.println("\t3 - Exibir últimas três frase digitadas");
 			System.out.println("\t4 - Contar novamente última frase enviada");
 			System.out.println("\t5 - Contar novamente últimas três frases enviadas");
-			System.out.println("\t6 - Contar quantas vezes você escolheu alguma opção do programa");
+			System.out.println("\t6 - Contar quantas vezes alguma opção do programa foi utilizada");
 			System.out.print("Sua opção: ");
 			opcao = sc.nextInt();
 
 			switch (opcao) {
-				case 0: 
+				case 0: // Sair
 					fim = true;
 					System.out.println("Obrigado por usar o programa!");
 					break;
-				case 1:
+				case 1: // Digitar Frase
 					System.out.print("Digite sua frase: ");
 					sc.nextLine();
 					str[pos] = sc.nextLine();
@@ -76,11 +82,11 @@ public class Main {
 					lastPos = pos;
 					pos = (pos + 1) % str.length;
 					break;
-				case 2: 
+				case 2: // Exibir última frase enviada
 					showLastMsg(str[lastPos]);
 					qtAttempts++;
 					break;
-				case 3: 
+				case 3: // Exibir últimas três frases enviada
 					if (qtFrases >= 3) {
 						showThreeLastMsg(str, lastPos);
 					} else {
@@ -88,20 +94,20 @@ public class Main {
 					}
 					qtAttempts++;
 					break;
-				case 4:
+				case 4: // Contar novamente última frase enviada
 					qt = qtMaiusculo(str[lastPos]);
 					showMsg(str[lastPos], qt);
 					qtAttempts++;
 					break;
-				case 5:
+				case 5: // Contar novamente últimas três frases enviadas
 					countThreeLastMsg(str, lastPos);
 					qtAttempts++;
 					break;
-				case 6:
+				case 6: // Contar quantas vezes alguma opção do programa foi utilizada
 					System.out.println("Você utilizou as opções " + qtAttempts + " vezes!");
 					qtAttempts++;
 					break;
-				default:
+				default: // Tratar erro
 					System.out.println("ERRO! Opção digitada fora do padrão. Tente novamente.");
 					break;
 			} 
