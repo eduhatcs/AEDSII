@@ -59,7 +59,7 @@ public class Main {
 			System.out.println("\t0 - Sair");
 			System.out.println("\t1 - Digitar frase");
 			System.out.println("\t2 - Exibir última frase digitada");
-			System.out.println("\t3 - Exibir últimas três frase digitadas");
+			System.out.println("\t3 - Exibir últimas três frases digitadas");
 			System.out.println("\t4 - Contar novamente última frase enviada");
 			System.out.println("\t5 - Contar novamente últimas três frases enviadas");
 			System.out.println("\t6 - Contar quantas vezes alguma opção do programa foi utilizada");
